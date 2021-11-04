@@ -1,0 +1,11 @@
+body{
+    font-family:'Times New Roman', Times, serif ;
+
+}
+.centrar{margin: 10px auto;display:block}
+header{background-color: #E5E5E5;}
+h1{background-color:#C4C4C4;text-align: center;text-align: center; text-transform: uppercase;color: #005677;
+}
+h3{text-transform: uppercase;color: #005677;}
+footer{text-align: center;background-color: #005677; color: 
+    #FFFFFF;}
